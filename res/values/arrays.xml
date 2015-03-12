@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sporsmal">
+        <item>Hva heter professoren i X-Men</item>
+        <item>Hvilken hudfarge har Hulken?</item>
+        <item>Hva heter rollepersonen til Ironman?</item>
+        <item>Hvilken helt beseirer Dr.Octavius?</item>
+        <item>Hva heter rollepersonen til Spiderman?</item>
+        <item>Hva er Mister Fantastic kjent for?</item>
+        <item>Hva heter skaperen av marvel?</item>
+        <item>Hvilken spesial våpen bruker Thor?</item>
+        <item>Hvilken våpen har Captain America?</item>
+        <item>Hvilken farge har drakten til Wolverine?</item>
+    </string-array>
+    
+    <string-array name="rSvar">
+        <item>Proffesor Xavier</item>
+        <item>Grønn</item>
+        <item>Tony Stark</item>
+        <item>Spiderman</item>
+        <item>Peter Parker</item>
+        <item>Super elastisk</item>
+        <item>Stan Lee</item>
+        <item>Hammer</item>
+        <item>Skjold</item>
+        <item>Gul og blå</item>
+    </string-array>
+    
+    <string-array name="fSvar1">
+        <item>Proffesor Oak</item>
+        <item>Gul</item>
+        <item>Bruce Wayne</item>
+        <item>Superman</item>
+        <item>Malcom Washington</item>
+        <item>Blåser ild</item>
+        <item>Michael Bay</item>
+        <item>Pil og bue</item>
+        <item>Spyd</item>
+        <item>Rød og blå</item>
+    </string-array>
+    
+    <string-array name="fSvar2">
+        <item>Proffesor William</item>
+        <item>Rød</item>
+        <item>Clark Kent</item>
+        <item>Iron Man</item>
+        <item>Peter Stark</item>
+        <item>Blir usynlig</item>
+        <item>Chuck Norris</item>
+        <item>Magisk stav</item>
+        <item>Hammer</item>
+        <item>Rød og gul</item>
+    </string-array>
+   
+    <string-array name="fSvar3">
+        <item>Proffesor Federer</item>
+        <item>Ingen av delene</item>
+        <item>Adam Sandler</item>
+        <item>Wolverine</item>
+        <item>Alexander Mendler</item>
+        <item>Super rask</item>
+        <item>Steven Spielberg</item>
+        <item>To sverd</item>
+        <item>Tryllestav</item>
+        <item>Sort og grønn</item>
+    </string-array>
+    
+    <string-array name="bHint">
+        <item>Siste bokstaven slutter med R</item>
+        <item>Fargen man får når man blander gul og blå</item>
+        <item>Fornavnet rimer på pony</item>
+        <item>Drakten hans er rød og blå</item>
+        <item>Park</item>
+        <item>Tyggegummi</item>
+        <item>Han er alltid med i alle Marvel filmene</item>
+        <item>Brukes til spikring</item>
+        <item>Den er rund</item>
+        <item>Du får grønn når du blander de fargene</item>
+    </string-array>
+
+
+</resources>

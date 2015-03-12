@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    	<item
+        android:id="@+id/mk_nyStart"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/nyttstart"
+        android:icon="@drawable/hjem" />
+    
+    	<item
+        android:id="@+id/mk_giOpp"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/gioppda"
+        android:icon="@drawable/quit"/>
+ 
+</menu>

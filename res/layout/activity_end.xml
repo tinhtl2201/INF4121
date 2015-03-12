@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/bakgrunn"
+        android:scaleType="fitXY"
+        android:src="@drawable/background" />
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:text="twtw" />
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="16sp"
+        android:text="twe324234tw" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/gratulerer"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/score"
+        android:layout_alignTop="@+id/score"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="70dp"
+        android:contentDescription="@string/nyttspill"
+        android:onClick="nyttspill"
+        android:src="@drawable/nyttspill" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/score"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="70dp"
+        android:layout_alignTop="@+id/score"
+        android:contentDescription="@string/tilmeny"
+        android:onClick="tilMeny"
+        android:src="@drawable/meny" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/imageButton1"
+        android:layout_below="@+id/imageButton1"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/wolverine"
+        android:src="@drawable/ww" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_alignLeft="@+id/imageButton2"
+        android:contentDescription="@string/inwomen"
+        android:src="@drawable/women" />
+
+</RelativeLayout>

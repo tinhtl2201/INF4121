@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Manifestet -->
+    <string name="app_name">Marvel Quiz</string>
+	
+	<!-- MainActivity -->
+	<string name="tidigjen">Tiden igjen: </string>
+	<string name="tidute">Tiden er ute!</string>
+	<string name="trykkok">Trykk ok for neste spørsmål </string>
+	<string name="nystart">"Er du sikker at du vil starte på nytt?</string>
+	<string name="nei">Nei</string>
+	<string name="ja">Ja</string>
+	<string name="giopp">Er du sikker at du vil gi opp? </string>
+    
+    <!-- EndActivity -->
+    <string name="antVinn">Antall riktig: </string>
+	<string name="antTap">Antall feil: </string>
+	<string name="intriktig">Du svarte riktig på </string>
+	
+	<!-- layout_about -->
+	<string name="bakgrunn">Bakgrunn</string>
+	<string name="forklaring">Spillet er en quiz om Marvel, der spørsmålene er basert på Marvel 
+	    sine superhelt tegneserier. Spørsmålene blir tilfeldig plukket ut med 4 svar alternativer, 
+	    der 1 er riktig. Etter 10 spørsmål er man ferdig. Man har to hjelpemidler, 1.Edderkoppen 
+	    tar vekk to feil alternativer og 2.Ironmasken gir deg et hint. Du har 20 sekunder på å 
+	    svare på spørsmålet, hvis ikke regnes det som feil. Du har muligheten til å gi opp og 
+	    starte på nytt men begge mulighetene telles som feil svar. Det var det, LYKKE TIL!</string>
+	<string name="tilbake">TilbakeKnapp</string>
+	
+	<!-- layout_start -->
+	<string name="spiderbilde">Spiderman.png</string>
+	<string name="ironbilde">Ironman.png</string>
+	<string name="logo">Logo.png</string>
+	<string name="lagetAv">Laget av Tinh Le</string>
+	<string name="startknapp">StartKnapp.png</string>
+	<string name="ommarvel">OmMarvel.png</string>
+	
+	<!-- layout_main -->
+	<string name="hintknapp">HintKnapp.png</string>
+	<string name="bhintknapp">bHintKnapp.png</string>
+	<string name="spmleft">spmLeft.png</string>
+
+	<!-- layout_end -->
+	<string name="gratulerer">Gratulerer!</string>
+	<string name="nyttspill">NyttSpill.png</string>
+	<string name="tilmeny">TilMeny.png</string>
+	<string name="inwomen">invisible.png</string>
+	<string name="wolverine">wolverine.png</string>
+	
+	<!-- meny xml -->
+	<string name="nyspill">Nytt spill</string>
+	<string name="avslutt">Avslutt</string>
+	<string name="gioppda">Gi opp?</string>
+	<string name="nyttstart">Starte på nytt?</string>
+	
+	
+	
+</resources>

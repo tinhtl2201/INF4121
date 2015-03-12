@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sporsmal">
+        <item>Whats the name of the professor in X-Men</item>
+        <item>What skin color has the incredible Hulk?</item>
+        <item>Whats the name of ironman character?</item>
+        <item>Which hero defeated Dr.Octavius?</item>
+        <item>Whats the name of spiderman character?</item>
+        <item>What is Mister Fantastic known for?</item>
+        <item>Whats the name of creater of marvel?</item>
+        <item>Which special weapon does Thor have?</item>
+        <item>What weapon does Captain America have?</item>
+        <item>Which color does Wolverines suit have?</item>
+    </string-array>
+    
+    <string-array name="rSvar">
+        <item>Proffesor Xavier</item>
+        <item>Green</item>
+        <item>Tony Stark</item>
+        <item>Spiderman</item>
+        <item>Peter Parker</item>
+        <item>Super elastic</item>
+        <item>Stan Lee</item>
+        <item>Hammer</item>
+        <item>Shield</item>
+        <item>Yellow og blue</item>
+    </string-array>
+    
+    <string-array name="fSvar1">
+        <item>Proffesor Oak</item>
+        <item>Yellow</item>
+        <item>Bruce Wayne</item>
+        <item>Superman</item>
+        <item>Malcom Washington</item>
+        <item>Breathe Fire</item>
+        <item>Michael Bay</item>
+        <item>Bow</item>
+        <item>Polearm</item>
+        <item>Red og blue</item>
+    </string-array>
+    
+    <string-array name="fSvar2">
+        <item>Proffesor William</item>
+        <item>Red</item>
+        <item>Clark Kent</item>
+        <item>Iron Man</item>
+        <item>Peter Stark</item>
+        <item>Be invisible</item>
+        <item>Chuck Norris</item>
+        <item>Magical staff</item>
+        <item>Hammer</item>
+        <item>Red and yellow</item>
+    </string-array>
+   
+    <string-array name="fSvar3">
+        <item>Proffesor Federer</item>
+        <item>None of them</item>
+        <item>Adam Sandler</item>
+        <item>Wolverine</item>
+        <item>Alexander Mendler</item>
+        <item>Super fast</item>
+        <item>Steven Spielberg</item>
+        <item>Two sword</item>
+        <item>Wand</item>
+        <item>Black and green</item>
+    </string-array>
+    
+    <string-array name="bHint">
+        <item>The last Letter ends with R</item>
+        <item>The color u get when u combine yellow and blue</item>
+        <item>The first name rhymes with pony</item>
+        <item>The suit is red and blue</item>
+        <item>Parc</item>
+        <item>Chewing gum</item>
+        <item>He is always on every Marvels movies</item>
+        <item>Used for nailing</item>
+        <item>Its round</item>
+        <item>You get green when us combine those two color</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="500dp"
+        android:contentDescription="@string/bakgrunn"
+        android:scaleType="fitXY"
+        android:src="@drawable/background" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/logo" />
+
+    <ImageButton
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/logo"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="110dp"
+        android:contentDescription="@string/startknapp"
+        android:onClick="start"
+        android:src="@drawable/btn_start" />
+
+    <ImageButton
+         android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/logo"
+        android:layout_alignTop="@+id/start"
+        android:layout_marginLeft="110dp"
+        android:contentDescription="@string/ommarvel"
+        android:onClick="tilMarvel"
+        android:src="@drawable/btn_om" />
+
+    <ImageView
+        android:id="@+id/spider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/start"
+        android:layout_below="@+id/start"
+        android:layout_marginTop="22dp"
+        android:contentDescription="@string/spiderbilde"
+        android:src="@drawable/spider" />
+
+    <ImageView
+        android:id="@+id/iron"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/about"
+        android:layout_alignTop="@+id/spider"
+        android:contentDescription="@string/ironbilde"
+        android:src="@drawable/ironman" />
+
+    <TextView
+        android:id="@+id/lagetav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/logo"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="50dp"
+        android:layout_below="@+id/logo"
+        android:text="@string/lagetAv"
+        android:textSize="16sp" />
+
+</RelativeLayout>

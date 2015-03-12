@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    	<item
+        android:id="@+id/mk_start"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/nyspill"
+        android:icon="@drawable/start"/>
+    
+    	<item
+        android:id="@+id/mk_avslutt"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/avslutt"
+        android:icon="@drawable/exit"/>
+    	
+</menu>
